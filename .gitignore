@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project instance related folders
+requests/
+requests_debug/
+responses/
+Test/
